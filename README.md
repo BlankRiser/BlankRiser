@@ -4,7 +4,7 @@
   <a href="https://medium.com/@rschoudhary1999"><img width="" height="" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
-<img align="right" width="100" height="100" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula">
+<img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula">
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula)
 
 
