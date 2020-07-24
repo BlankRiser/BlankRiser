@@ -1,10 +1,11 @@
 
 <p align="center">
-  <img width="" height="" src="https://github.com/BlankRiser/BlankRiser/blob/master/my%20Github%20banner.png?raw=true">
+  <img width="" height="" src="https://github.com/BlankRiser/BlankRiser/blob/master/my%20Github%20banner.jpg?raw=true">
+  <a href="https://medium.com/@rschoudhary1999"><img width="" height="" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars)
+![My github stats](https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula)
 
 
 ### Hey There! Ram here, 
