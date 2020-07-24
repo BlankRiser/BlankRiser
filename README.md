@@ -5,7 +5,6 @@
 </p>
 
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula">
-![My github stats](https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula)
 
 
 ### Hey There! Ram here, 
