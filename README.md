@@ -1,4 +1,9 @@
 
+<p align="center">
+  <img width="" height="" src="https://github.com/BlankRiser/BlankRiser/blob/master/my%20Github%20banner.png?raw=true">
+</p>
+
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars)
 
 
