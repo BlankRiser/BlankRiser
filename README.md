@@ -2,14 +2,24 @@
 <p align="center">
   <img width="" height="" src="https://github.com/BlankRiser/BlankRiser/blob/master/my%20Github%20banner.jpg?raw=true">
   
-  <a href="https://www.linkedin.com/in/ram-shankar-choudhary-19bb91161/">
+  <a href="https://www.linkedin.com/in/ram-shankar-choudhary-19bb91161/" target="_blank">
     <img width="" height="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">    
   </a>
-  <a href="https://medium.com/@rschoudhary1999">
+  
+   <a href="https://haven.netlify.app/" target="_blank">
+  <img width="" height="" src="https://img.shields.io/badge/Blog-DevHaven.ml-%23.svg?&style=for-the-badge&logo=&logoColor=white">
+  </a>
+  
+  <a href="https://medium.com/@rschoudhary1999" target="_blank">
   <img width="" height="" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
   </a>
-  <a href="https://haven.netlify.app/">
-  <img width="" height="" src="https://img.shields.io/badge/Blog-DevHaven.ml-%23.svg?&style=for-the-badge&logo=&logoColor=white">
+  
+  <a href="https://twitter.com/rschoudhary1999" target="_blank">
+  <img width="" height="" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+  </a>                     
+  
+  <a href="https://www.instagram.com/that_bihari_dude/" target="_blank">
+  <img width="" height="" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
 </p>
