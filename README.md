@@ -36,6 +36,8 @@ for badges refer the below sites
 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 
+https://simpleicons.org/
+
 https://forthebadge.com/
 
 https://shields.io/
