@@ -26,6 +26,11 @@
 
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula">
 <br />
+
+I write code, think about data, and create digital experiences.
+I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+
+
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankRiser&hide=java&show_icons=true&theme=dracula">
 
 
