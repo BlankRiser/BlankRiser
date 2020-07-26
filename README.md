@@ -28,8 +28,8 @@
 <br />
 
 Hi there! I am Ram 
-I write code, think about data, and create digital experiences.
-I prefer to keep learning, continue challenging myself, and do interesting things that matter.
+I write code, think about data, and create digital experiences.<br>
+I prefer to keep learning, continue challenging myself, and do interesting things that matter.<br>
 I am an engineering student set out to make an imapct
 
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankRiser&hide=java&show_icons=true&theme=dracula">
