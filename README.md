@@ -48,6 +48,8 @@ https://forthebadge.com/
 
 https://shields.io/
 
+https://github.com/anuraghazra/github-readme-stats
+
 
 For alignment, refer this
 https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d
