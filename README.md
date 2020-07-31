@@ -97,7 +97,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </p>
 
 
-### :octocat: My Github Stats 
+## :octocat: My Github Stats 
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankRiser&hide=java&show_icons=true&theme=dracula">
 
 <img align="left" width="" height="" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula">
