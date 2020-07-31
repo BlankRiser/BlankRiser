@@ -33,7 +33,7 @@ I prefer to keep learning, continue challenging myself, and do interesting thing
 I am an engineering student set out to make an imapct
 
 ## &#x270d; Blog & Writing
-Apart from coding, I also maintain a blog - you can find my articles on my website at [devhaven.ml](https://devhaven.ml/) as well as on [Medium](https://medium.com/@rschoudhary1999).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [devhaven.ml](https://devhaven.ml/) as well as on [Medium](https://medium.com/@rschoudhary1999). I am also a writer for Analytics Vidhya Publication on Medium.
 
 ## :hammer: Tools and Technologies
 <p align="center">
