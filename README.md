@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="" height="" src="https://github.com/BlankRiser/BlankRiser/blob/master/my%20Github%20banner.jpg?raw=true">
+  <img width="" height="" src="https://github.com/BlankRiser/BlankRiser/blob/master/my%20Github%20banner.png?raw=true">
   
   <a href="https://www.linkedin.com/in/ram-shankar-choudhary-19bb91161/" target="_blank">
     <img width="" height="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">    
