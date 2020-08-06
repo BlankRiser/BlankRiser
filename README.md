@@ -14,12 +14,16 @@
   <img width="" height="" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
   </a>
   
+  <a href="https://devhaven.hashnode.dev/" target="_blank">
+  <img width="" height="" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
   <a href="https://twitter.com/rschoudhary1999" target="_blank">
   <img width="" height="" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
   </a>                     
   
   <a href="https://www.instagram.com/that_bihari_dude/" target="_blank">
-  <img width="" height="" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  <img width="" height="" src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=Hashnode&logoColor=white">
   </a>
   
 </p>
@@ -121,8 +125,12 @@ https://shields.io/
 
 https://github.com/anuraghazra/github-readme-stats
 
+### For icons and hex color for labels
+https://simpleicons.org/
+
 ### for emoji on Github
 https://github.com/StylishThemes/GitHub-Dark/wiki/Emoji
+
 https://gist.github.com/rxaviers/7360908
 
 
