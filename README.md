@@ -15,7 +15,7 @@
   </a>
   
   <a href="https://devhaven.hashnode.dev/" target="_blank">
-  <img width="" height="" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+  <img width="" height="" src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=Hashnode&logoColor=white">
   </a>
   
   <a href="https://twitter.com/rschoudhary1999" target="_blank">
@@ -23,7 +23,7 @@
   </a>                     
   
   <a href="https://www.instagram.com/that_bihari_dude/" target="_blank">
-  <img width="" height="" src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=Hashnode&logoColor=white">
+  <img width="" height="" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
 </p>
