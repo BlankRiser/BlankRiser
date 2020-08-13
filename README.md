@@ -84,6 +84,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white">
 </a>
 <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
+</a>
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white">
 </a>
 <a href="" target="_blank">
@@ -96,10 +99,50 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img src="https://img.shields.io/badge/Adobe%20XD-%23FF26BE.svg?&style=for-the-badge&logo=Adobe%20XD&logoColor=white">
 </a>
 <a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=Figma%20XD&logoColor=white">
+</a>
+<a href="" target="_blank">
   <img src="https://img.shields.io/badge/Anaconda-%2342B029.svg?&style=for-the-badge&logo=Anaconda&logoColor=white">
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white">
+</a>
+  <a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank">
+  <img src="https://img.shields.io/badge/IBM SPSS-%23054ADA.svg?&style=for-the-badge&logo=IBM&logoColor=white">
+</a>
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/IFTTT-%23000000.svg?&style=for-the-badge&logo=IFTTT&logoColor=white">
 </a>
 </p>
 
+<br>
+<p align="center">
+  
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?&style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
+</a>
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Affinity%20Photo-%237E4DD2.svg?&style=for-the-badge&logo=Affinity%20Photo&logoColor=white">
+</a>
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white">
+</a>
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white">
+</a>
+
+
+
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Audacity-%230000CC.svg?&style=for-the-badge&logo=Audacity&logoColor=white">
+</a>
+
+
+</p>
 
 ## :octocat: My Github Stats 
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankRiser&hide=java&show_icons=true&theme=dracula">
