@@ -10,7 +10,7 @@
   <img width="" height="" src="https://img.shields.io/badge/Blog-DevHaven.ml-%23.svg?&style=for-the-badge&logo=&logoColor=white">
   </a>
   
-  <a href="https://medium.com/@rschoudhary1999" target="_blank">
+  <a href="https://devhaven.medium.com/" target="_blank">
   <img width="" height="" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">
   </a>
   
