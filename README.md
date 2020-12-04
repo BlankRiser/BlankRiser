@@ -147,7 +147,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
  <details>
 <summary>:octocat: My Github Stats</summary>
+  
 ![Visitor Count](https://profile-counter.glitch.me/{BlankRiser}/count.svg)
+  
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankRiser&hide=makefile&show_icons=true&theme=dracula">
 <img align="left" width="" height="" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula">
 
