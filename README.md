@@ -31,10 +31,10 @@
 
 
 ### Hi there!<img src="https://raw.githubusercontent.com/BlankRiser/BlankRiser/master/wave.gif" width="30px">
-I am Ram <br>
-I write code, think about data, and create digital experiences.<br>
-I prefer to keep learning, continue challenging myself, and do interesting things that matter.<br>
-I am an engineering student set out to make an imapct
+I am Ram <br/>
+I prefer to keep learning, continue challenging myself, and do interesting things that matter.<br/>
+I am an engineering student set out to make an imapct.
+<!--I write code, think about data, and create digital experiences.<br/>-->
 
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [devhaven.ml](https://devhaven.ml/) as well as on [Medium](https://medium.com/@rschoudhary1999). I am also a writer for Analytics Vidhya Publication on Medium.
