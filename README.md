@@ -35,11 +35,11 @@ I am Ram <br/>
 I prefer to keep learning, continue challenging myself, and do interesting things that matter.<br/>
 I am an engineering student set out to make an imapct.
 <!--I write code, think about data, and create digital experiences.<br/>-->
-
+<br />
 <details>
-<summary>:sunglasses: Other facts you want to know</summary>
-  
-  - Someone who has seen Jupiter and Saturn come close within 0.1 degrees of each other on 21/12/2020 , forming the first visible "double planet" in 800 years 👻
+<summary>:sunglasses:</summary>
+
+- I witnessed Jupiter and Saturn come close within 0.1 degrees of each other on 21/12/2020 , forming the first visible "double planet" in 800 years 
 </details>
 
 ## &#x270d; Blog & Writing
@@ -170,7 +170,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 **BlankRiser/BlankRiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### for badges refer the below sites
+### for badges refer the below sites 👻
 
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 
