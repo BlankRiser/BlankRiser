@@ -36,6 +36,12 @@ I prefer to keep learning, continue challenging myself, and do interesting thing
 I am an engineering student set out to make an imapct.
 <!--I write code, think about data, and create digital experiences.<br/>-->
 
+<details>
+<summary>:sunglasses: Other facts you want to know</summary>
+  
+  - Someone who has seen Jupiter and Saturn come close within 0.1 degrees of each other on 21/12/2020 , forming the first visible "double planet" in 800 years 👻
+</details>
+
 ## &#x270d; Blog & Writing
 Apart from coding, I also maintain a blog - you can find my articles on my website at [devhaven.ml](https://devhaven.ml/) as well as on [Medium](https://medium.com/@rschoudhary1999). I am also a writer for Analytics Vidhya Publication on Medium.
 
@@ -145,7 +151,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </p>
 
 
- <details>
+<details>
 <summary>:octocat: My Github Stats</summary>
   
 ![Visitor Count](https://profile-counter.glitch.me/{BlankRiser}/count.svg)
