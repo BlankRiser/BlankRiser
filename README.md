@@ -40,6 +40,7 @@ I am an engineering student set out to make an imapct.
 <summary>:sunglasses:</summary>
 
 - I witnessed Jupiter and Saturn come close within 0.1 degrees of each other on 21/12/2020 , forming the first visible "double planet" in 800 years 
+- My [review paper](https://ieeexplore.ieee.org/document/9296161) was published on 22/12/2020 in IEEE
 </details>
 
 ## &#x270d; Blog & Writing
