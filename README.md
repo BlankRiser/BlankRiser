@@ -160,6 +160,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankRiser&hide=makefile&show_icons=true&theme=dracula">
 <img align="left" width="" height="" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula">
 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlankRiser)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </details>
 
 ##  
