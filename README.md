@@ -154,7 +154,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <details>
 <summary>:octocat: My Github Stats</summary>
-  
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/BlankRiser/BlankRiser/blob/master/devcard.svg" width="400" alt="Ram's Dev Card"/></a>  
 ![Visitor Count](https://profile-counter.glitch.me/{BlankRiser}/count.svg)
   
 <img align="right" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankRiser&hide=makefile&show_icons=true&theme=dracula">
