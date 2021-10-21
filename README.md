@@ -6,7 +6,7 @@
     <img width="" height="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">    
   </a>
   
-   <a href="https://haven.netlify.app/" target="_blank">
+   <a href="https://ramshankar.codes" target="_blank">
   <img width="" height="" src="https://img.shields.io/badge/Blog-DevHaven.ml-%23.svg?&style=for-the-badge&logo=&logoColor=white">
   </a>
   
@@ -30,6 +30,8 @@
 
 
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankRiser)
+
 ### Hi there!<img src="https://raw.githubusercontent.com/BlankRiser/BlankRiser/master/wave.gif" width="30px">
 I am Ram <br/>
 I prefer to keep learning, continue challenging myself, and do interesting things that matter.<br/>
@@ -44,7 +46,7 @@ I am an engineering student set out to make an imapct.
 </details>
 
 ## &#x270d; Blog & Writing
-Apart from coding, I also maintain a blog - you can find my articles on my website at [devhaven.ml](https://devhaven.ml/) as well as on [Medium](https://medium.com/@rschoudhary1999). I am also a writer for Analytics Vidhya Publication on Medium.
+Apart from coding, I also maintain a blog - you can find my articles on my website at [ramshankar.codes](https://ramshankar.codes/) as well as on [Medium](https://medium.com/@rschoudhary1999). I am also a writer for Analytics Vidhya Publication on Medium.
 
 ## :hammer: Tools and Technologies
 <p align="center">
@@ -166,7 +168,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" width="" height="" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula" />
   
 <!-- 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlankRiser)](https://github.com/anuraghazra/github-readme-stats) -->
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlankRiser)](https://github.com/anuraghazra/github-readme-stats) 
+
+![Ram's github stats](https://github-readme-stats.vercel.app/api?username=BlankRiser&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,stars&include_all_commits=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BlankRiser&theme=dark)](https://git.io/streak-stats)
+
+-->
 
 </details>
 
