@@ -1,4 +1,3 @@
-
 <p align="center">
   <img width="" height="" src="https://github.com/BlankRiser/BlankRiser/blob/master/my%20Github%20banner.png?raw=true">
   
@@ -28,27 +27,35 @@
   
 </p>
 
-
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=BlankRiser)
 
-### Hi there!<img src="https://raw.githubusercontent.com/BlankRiser/BlankRiser/master/wave.gif" width="30px">
-I am Ram <br/>
-I prefer to keep learning, continue challenging myself, and do interesting things that matter.<br/>
-I am an engineering student set out to make an imapct.
-<!--I write code, think about data, and create digital experiences.<br/>-->
-<br />
+# Hi, I'm Ram<img src="https://raw.githubusercontent.com/BlankRiser/BlankRiser/master/wave.gif" width="30px">
+
+## 📫 How to reach me...
+
+|                | Contact Me!                                                       |
+| -------------- | ----------------------------------------------------------------- |
+| Name           | Ram Shankar Choudhary                                             |
+| Personal Email | [rschoudhary1999@outlook.com](mailto:rschoudhary1999@outlook.com) |
+| Twitter        | [@rschoudhary1999](https://twitter.com/rschoudhary1999)           |
+
+## About me
+
+My name is Ram Shankar Choudhary and I am excited about using cutting edge web and mobile technology to create platforms and solutions to solve the world's problems. I am passionate about React, TypeScript, Python, and the future of application and open source development. Most of my work is done in private repositories for work, but I would be happy to discuss my experiences and knowlege.
+
 <details>
 <summary>:sunglasses:</summary>
 
-- I witnessed Jupiter and Saturn come close within 0.1 degrees of each other on 21/12/2020 , forming the first visible "double planet" in 800 years 
+- I witnessed Jupiter and Saturn come close within 0.1 degrees of each other on 21/12/2020 , forming the first visible "double planet" in 800 years
 - My [review paper](https://ieeexplore.ieee.org/document/9296161) was published on 22/12/2020 in IEEE
 </details>
 
 ## &#x270d; Blog & Writing
-Apart from coding, I also maintain a blog - you can find my articles on my website at [ramshankar.codes](https://ramshankar.codes/) as well as on [Medium](https://medium.com/@rschoudhary1999). I am also a writer for Analytics Vidhya Publication on Medium.
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [rams.codes](https://ram.codes/) as well as on [Medium](https://medium.com/@rschoudhary1999). I am also a writer for Analytics Vidhya Publication on Medium.
 
 ## :hammer: Tools and Technologies
+
 <p align="center">
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white">
@@ -143,16 +150,11 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?&style=for-the-badge&logo=Blender&logoColor=white">
 </a>
 
-
-
-
 <a href="" target="_blank">
   <img src="https://img.shields.io/badge/Audacity-%230000CC.svg?&style=for-the-badge&logo=Audacity&logoColor=white">
 </a>
 
-
 </p>
-
 
 <details>
   <summary> My Dev Stats</summary>
@@ -167,9 +169,9 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <img align="left" width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlankRiser&hide=makefile&show_icons=true&theme=dracula" />
 <img align="left" width="" height="" src="https://github-readme-stats.vercel.app/api?username=BlankRiser&count_private=true&hide=stars&show_icons=true&theme=dracula" />
   
-<!-- 
+<!--
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlankRiser)](https://github.com/anuraghazra/github-readme-stats) 
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BlankRiser)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Ram's github stats](https://github-readme-stats.vercel.app/api?username=BlankRiser&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues,stars&include_all_commits=true)
 
@@ -180,8 +182,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </details>
 
 <br />
-
-
 
 <!--
 
