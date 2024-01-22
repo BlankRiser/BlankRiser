@@ -6,7 +6,7 @@
   </a>
   
    <a href="https://ramshankar.codes" target="_blank">
-  <img width="" height="" src="https://img.shields.io/badge/Blog-DevHaven.ml-%23.svg?&style=for-the-badge&logo=&logoColor=white">
+  <img width="" height="" src="https://img.shields.io/badge/Blog-ram.codes-%23.svg?&style=for-the-badge&logo=&logoColor=white">
   </a>
   
   <a href="https://devhaven.medium.com/" target="_blank">
@@ -36,7 +36,7 @@
 |                | Contact Me!                                                       |
 | -------------- | ----------------------------------------------------------------- |
 | Name           | Ram Shankar Choudhary                                             |
-| Personal Email | [rschoudhary1999@outlook.com](mailto:rschoudhary1999@outlook.com) |
+| Personal Email | [hi@ram.codes](mailto:hi@ram.codes) |
 | Twitter        | [@rschoudhary1999](https://twitter.com/rschoudhary1999)           |
 
 ## About me
