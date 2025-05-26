@@ -56,7 +56,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## :hammer: Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vite,tailwind,materialui,vitest,d3,express,elysia,sqlite,postgres,mysql,mongodb,planetscale,supabase,pnpm,npm,bun,docker,vercel,netlify,git,github,vscode,postman,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vite,tailwind,materialui,vitest,d3,express,elysia,sqlite,postgres,mysql,mongodb,planetscale,supabase,pnpm,npm,bun,docker,vercel,netlify,git,github,vscode,postman,ai,figma)](https://ram.codes)
 
 </p>
 
