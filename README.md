@@ -5,7 +5,7 @@
     <img width="" height="" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">    
   </a>
   
-   <a href="https://ramshankar.codes" target="_blank">
+   <a href="https://ram.codes" target="_blank">
   <img width="" height="" src="https://img.shields.io/badge/Blog-ram.codes-%23.svg?&style=for-the-badge&logo=&logoColor=white">
   </a>
   
@@ -31,6 +31,13 @@
 
 # Hi, I'm Ram<img src="https://raw.githubusercontent.com/BlankRiser/BlankRiser/master/wave.gif" width="30px">
 
+I'm Ram Shankar Choudhary, a versatile software developer with a passion for exploring diverse domains. 
+
+I thrive in fast-paced startup environments, where innovation and adaptability are key. My expertise lies in building full-stack applications, and I bring a unique blend of skills from both the frontend and data engineering worlds to create interactive, user-friendly web applications.
+
+My skill set extends to problem-solving, where I can independently tackle complex challenges while also collaborating seamlessly within a team. My career journey showcases a track record of delivering impactful projects and consistently meeting high standards of quality and performance.
+
+
 ## 📫 How to reach me...
 
 |                | Contact Me!                                                       |
@@ -38,10 +45,6 @@
 | Name           | Ram Shankar Choudhary                                             |
 | Personal Email | [hi@ram.codes](mailto:hi@ram.codes) |
 | Twitter        | [@rschoudhary1999](https://twitter.com/rschoudhary1999)           |
-
-## About me
-
-My name is Ram Shankar Choudhary and I am excited about using cutting edge web and mobile technology to create platforms and solutions to solve the world's problems. I am passionate about React, TypeScript, Python, and the future of application and open source development. Most of my work is done in private repositories for work, but I would be happy to discuss my experiences and knowlege.
 
 <details>
 <summary>:sunglasses:</summary>
